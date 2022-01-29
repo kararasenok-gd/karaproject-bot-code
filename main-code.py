@@ -294,7 +294,7 @@ keep_alive.keep_alive()
 
 # Connect
 
-client.run('toke_here')
+client.run('token_here')
 
 
 
